@@ -1,0 +1,25 @@
+﻿  Camera.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Helper.cpp
+  ImageLoader.cpp
+  main.cpp
+  Mesh.cpp
+  Renderer.cpp
+C:\Users\matth\Documents\uni\not broken\Framework - Cube\ThreeGPStart\Renderer.cpp(170,14): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\Users\matth\Documents\uni\not broken\Framework - Cube\ThreeGPStart\Renderer.cpp(266,43): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\matth\Documents\uni\not broken\Framework - Cube\ThreeGPStart\Renderer.cpp(342,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\Documents\uni\not broken\Framework - Cube\ThreeGPStart\Renderer.cpp(343,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\matth\Documents\uni\not broken\Framework - Cube\ThreeGPStart\Renderer.cpp(356,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\Documents\uni\not broken\Framework - Cube\ThreeGPStart\Renderer.cpp(357,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\matth\Documents\uni\not broken\Framework - Cube\ThreeGPStart\Renderer.cpp(425,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\matth\Documents\uni\not broken\Framework - Cube\ThreeGPStart\Renderer.cpp(443,33): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\matth\Documents\uni\not broken\Framework - Cube\ThreeGPStart\Renderer.cpp(736,41): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  Simulation.cpp
+  Generating Code...
+  glew.c
+  ThreeGPStart.vcxproj -> C:\Users\matth\Documents\uni\not broken\Framework - Cube\x64\Debug\ThreeGPStart.exe
